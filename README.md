@@ -14,8 +14,8 @@ To run this project you will need Anaconda software and Jupyter Notebook applica
 ### Installation instructions
 
 
-Install Anaconda from [here](https://www.anaconda.com/download/). The project has been developed with Python  3. Choose the appropriate OS.
-Start the Anaconda Navigator
+• Install Anaconda from [here](https://www.anaconda.com/download/). The project has been developed with Python  3. Choose the appropriate OS.
+• Start the Anaconda Navigator
 as explained in section 4, install and start a Jupyter notebook.
 Download this tutorial file (use "save link as..." if it shows in the browser), open it in your Jupyter session and follow the instructions.
 
